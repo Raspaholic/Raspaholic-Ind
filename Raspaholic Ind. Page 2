@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Raspaholic Industries</title>
+</head>
+<body style="background-color:#CE0031">
+<style>
+.indented {
+  padding-left: 50pt;
+  padding-right: 50pt;
+}
+</style>
+<h1>Raspaholic Industries</h1>
+<ul>
+    <li><a href="#True 4k Projector">True 4k Projector</a></li>
+    <li><a href="#Realistic Artificial Daylight Screen">Realistic Artificial Daylight Screen</a></li>
+    <li><a href="#Smart Mirror That Doesn't Steam Up">Smart Mirror That Doesn't Steam Up</a></li>
+    <li><a href="#Vacuum Chamber">Vacuum Chamber</a> </li>
+    <li><a href="#Sand Blaster">Sand Blaster</a> </li>
+    <li><a href="#Touchscreen Smart Mirror With Face ID">Touchscreen Smart Mirror With Face ID</a> </li>
+    <li><a href="#Smart CCTV Camera">Smart CCTV Camera</a> </li>
+    <li><a href="#Electric Skateboard">Electric Skateboard</a> </li>
+    <li><a href="#VR Headset">VR Headset</a> </li>
+    <li><a href="#Haptic VR Gloves">Haptic VR Gloves</a> </li>
+    <li><a href="#Pinball Machine">Pinball Machine</a> </li>
+    <li><a href="#CNC Machine">CNC Machine</a> </li>
+    <li><a href="#Rocketry">Rocketry</a> </li>
+    <li><a href="#Wood Gassifier">Wood Gassifier</a> </li>
+    <li><a href="#Forge">Forge</a> </li>
+    <li><a href="#Starlite">Starlite</a> </li>
+    <li><a href="#Haptic VR Vest">Haptic VR Vest</a> </li>
+    <li><a href="#Arcade Machine">Arcade Machine</a> </li>
+</ul>
+<div id="True 4k Projector">
+    <h3>True 4k Projector</h3>
+    <p><!--class="indented"-->The <em>True 4k Projector</em> is a projector that is made by DIY Perks(Youtube Channel) that will be used
+    to project anything that can be connected via HDMI cable. This is the first major project I plan on completing
+    in the near future.</p>
+    <h4><a href="https://www.youtube.com/DIY Perks" target="_blank">DIY Perks Youtube Channel</a></h4>
+</div>
+<div id="Realistic Artificial Daylight Screen">
+    <h3>Realistic Artificial Daylight Screen</h3>
+    <p>The <em>Realistic Artificial Daylight Screen</em> is a screen that uses the light board from a broken
+    tv or monitor that produces light that looks very similar to daylight. This screen can be used in the
+    middle of the night which it also can improve productivity and it's great for taking pictures.
+    This is another project made by DIY Perks.</p>
+    <h4><a href="https://www.youtube.com/DIY Perks" target="_blank">DIY Perks Youtube Channel</a></h4>
+</div>
+
+<div id="Smart Mirror That Doesn't Steam Up">
+    <h3>Smart Mirror That Doesn't Steam Up</h3>
+    <p>The <em>Smart Mirror</em> is a smart mirror that doesn't steam up with the use of water circulating
+    behind the front screen of the mirror. It can be customized to display whatever information is wanted and can play
+    music and videos. Another project by DIY Perks</p>
+    <h4><a href="https://www.youtube.com/DIY Perks" target="_blank">DIY Perks Youtube Channel</a></h4>
+</div>
+
+<div id="Vacuum Chamber">
+    <h3>Vacuum Chamber</h3>
+    <p>The <em>Vacuum Chamber</em> is something that can be used to test items inside the chamber. The chamber was made
+by the late creator for the Youtube channel: The King of Random. Grant Thompson made the original design using a type
+of rubber/putty that is used to create the seal for the chamber. After the unfortunate passing of Grant, his mentors
+took over the channel and have been running the channel ever since. I will be using both Grant and NightHawkInLight's
+design for the vacuum chamber.</p>
+    <h4><a href="https://www.youtube.com/The King of Random" target="_blank">The King of Random Youtube Channel</a></h4>
+    <h4><a href="https://www.youtube.com/NightHawkInLight" target="_blank">NightHawkInLight's Youtube Channel</a></h4>
+</div>
+
+<div id="Sand Blaster">
+    <h3>Sand Blaster</h3>
+    <p>The <em>Sand Blaster</em> is used to sand blast at various items and can be used for different purposes.
+This project was made by DIY Perks and NightHawkInLight, both channels didn't collaborate and I'm adding on to
+both of their designs.</p>
+    <h4><a href="https://www.youtube.com/DIY Perks" target="_blank">DIY Perks Youtube Channel</a></h4>
+    <h4><a href="https://www.youtube.com/NightHawkInLight" target="_blank">NightHawkInLight's Youtube Channel</a></h4>
+</div>
+
+<div id="Touchscreen Smart Mirror With Face ID">
+    <h3>Touchscreen Smart Mirror With Face ID</h3>
+    <p>The <em>Smart touchscreen mirror</em> is a mirror like the smart mirror that doesn't steam up except it has face ID.
+The design is by Eben Kouao.</p>
+    <h4><a href="https://www.youtube.com/Eben Kouao" target="_blank">Eben Kouao's Youtube Channel</a></h4>
+</div>
+
+<div id="Smart CCTV Camera">
+    <h3>Smart CCTV Camera</h3>
+    <p>The <em>Smart CCTV camera</em> is a camera that can be remotely controlled using an app and an interface to move
+the line of sight of the camera. The camera feed is live streamed and can be recorded. The camera's app can send
+notifications to the users phone. This is made be Eben Kouao.</p>
+    <h4><a href="https://www.youtube.com/Eben Kouao" target="_blank">Eben Kouao's Youtube Channel</a> </h4>
+</div>
+
+<div id="Electric Skateboard">
+    <h3>Electric Skateboard</h3>
+    <p>A <em>electric skateboard</em> is one thats speed can be controlled using a radio controller operated by the user.
+These custom electric skateboards greatly exceed the highest performing commercially available electric skateboards.
+I will be using designs from random88ish and GreatScott!</p>
+    <h4><a href="https://www.youtube.com/random88ish" target="_blank">random88ish's Youtube Channel</a> </h4>
+    <h4><a href="https://www.youtube.com/greatscottlab" target="_blank">GreatScott!'s Youtube Channel</a> </h4>
+</div>
+
+<div id="VR Headset">
+    <h3>VR Headset</h3>
+    <p>The <em>VR headset</em> is a DIY headset made for half the cost that can play many games that support
+    Oculous, HTC Vive, or Sony headsets. The DIY headset will have 110 FOV with clear lenses and other displays
+    on the outer body of the headset. The headset doesn't require and sensors to accurately show the user in any game.
+    This design is made by Raspaholic Ind.</p>
+</div>
+
+<div id="Haptic VR Gloves">
+    <h3>Haptic VR Gloves</h3>
+    <p>Because of the cost of <em>haptic VR gloves</em>, I will be making my own using the design by Lucas VRTech.
+    Lucas's design uses potentiometers and badge pulleys to map the distance of the users fingers contracting and the
+    movement of the hand. These gloves will work hand in hand with the DIY VR headset and can play many games that
+    hand movement like Half Life Alex. The gloves also have a joystick at the top of the assembly for movement of the
+    user.</p>
+    <h4><a href="https://www.youtube.com/LucasVRTech" target="_blank">Lucas's Youtube Channel</a> </h4>
+    <h4><a href="https://www.youtube.com/The Mysticle" target="_blank">The Mysticle's Youtube Channel</a> </h4>
+</div>
+
+<div id="Pinball Machine">
+    <h3>Pinball Machine</h3>
+    <p>The <em>pinball machine</em> design I will be using is from multiple schematics of manufactured pinball
+    machines. I'm still trying to find the theme I'll be using but as of now, I have none. Star Wars is a possible
+    for the theme of the machine.</p>
+</div>
+
+<div id="CNC Machine">
+    <h3>CNC Machine</h3>
+    <p>The design for the <em>CNC machine</em> is from the youtuber Mikodem Bartnik. His design can easily be made
+    from 3d printed parts and other accessible pieces for the machine.</p>
+    <h4><a href="https://www.youtube.com/Nikodem Bartnik" target="_blank">Nikodem's Youtube Channel</a> </h4>
+</div>
+
+<div id="Rocketry">
+    <h3>Rocketry</h3>
+    <p></p>
+</div>
+
+<div id="Wood Gassifier">
+    <h3>Wood Gassifier</h3>
+    <p>The design for the <em>wood gassifier</em> is from the youtube channel NightHawkInLight. His design is
+    easily configurable to any needs and restrictions of space. The gassifier also can store the gas in a well tested
+    canister that is not prone to explosions or any incidents related to that.</p>
+    <h4><a href="https://www.youtube.com/NightHawkInLight" target="_blank">NightHawkInLight's Youtube Channel</a> </h4>
+</div>
+
+<div id="Forge">
+    <h3>Forge</h3>
+    <p>The design for the <em>forge</em> is my own design with other aspects of other designs for forges. I plan on
+    welding the outer body of the forge in the future when I have a welder.</p>
+</div>
+
+<div id="Starlite">
+    <h3>Starlite</h3>
+    <p><em>Starlite</em> is a material that's recipe was lost due to  the creator having very strict rules over the
+    material. Fortunately NightHawkInLight has made his own recipe that is being improved continuosly to better
+    compare to the original material. Starlite is a material that acts as a heat shield on rockets. The material
+    forms a wall of carbon when burned further pushing the heat source away from the material.</p>
+    <h4><a href="https://www.youtube.com/NightHawkInLight" target="_blank">NightHawkInLight's Youtube ChannelS</a> </h4>
+</div>
+
+<div id="Haptic VR Vest">
+    <h3>Haptic VR Vest</h3>
+    <p>The design for the <em>haptic VR vest</em> is from the youtube channel Pointlessly Useful. His design consists
+    of using motors for vibration from controlors like xbox or playstation.</p>
+    <h4><a href="https://www.youtube.com/channel/UCfVJcYV09bg1XKyrBxs0Ywg" target="_blank">Pointlessly Useful's Youtube Channel</a></h4>
+</div>
+
+<div id="Arcade Machine">
+    <h3>Arcade Machine</h3>
+    <p>The design for the <em>arcade machine</em> is made by the youtube channel I Like To Make Stuff. He has designs
+    for both a barstool and upright arcade machine cabinet. My design will be improvising off these two by creating
+    an arcade machine cabinet that can be a barstool or normal arcade machine cabinet.</p>
+    <h4><a href="https://www.youtube.com/I Like To Make Stuff" target="_blank">I Like To Make Stuff's Youtube Channel</a> </h4>
+</div>
+    Link 1 | Link 2 | Link 3 | Link 4
+
+
+
+    <h2><a href="index.html">Home Page</a> | Page 2 | <a href="page-3.html">Page 3</a></h2>
+</body>
+</html>
