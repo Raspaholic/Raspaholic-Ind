@@ -14,6 +14,6 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-To report a bug or vulnerability in the website, email me at Raspaholic.Industries@gmail.com
+To report a bug or vulnerability in the website, email me at raspaholic.industries@gmail.com
 
 A response will be given 30 minutes to an hour later. An update to the website will then be troubleshooted for the patch of the bug.
